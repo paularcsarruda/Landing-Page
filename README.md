@@ -6,7 +6,7 @@
 
 ### Link Netlify
 
-https://loremipsum-designer.netlify.app/
+
 
 ### Descrição do Projeto
 
