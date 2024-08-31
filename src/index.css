@@ -82,9 +82,9 @@ nav {
 }
 
 .first-section p {
-    line-height: 1.8; /* Ajusta o espaçamento entre linhas */
+    line-height: 1.5; /* Ajusta o espaçamento entre linhas */
     color: rgb(255, 255, 255);
-    font-size: 2rem;
+    font-size: 1.8rem;
     font-weight: 200;
     margin-bottom: 3rem;
     max-width: 800px; 
@@ -260,27 +260,27 @@ nav {
 
 .contact-content {
     display: flex;
-    flex-direction: row; /* Alinha os itens em linha (imagem e formulário lado a lado) */
+    flex-direction: row; 
     align-items: center;
     justify-content: center;
     width: 100%;
-    max-width: 1200px; /* Ajuste a largura máxima conforme necessário */
-    gap: 2rem; /* Espaço entre a imagem e o formulário */
+    max-width: 1200px; 
+    gap: 2rem; 
 }
 
 .form-box {
     display: flex;
     flex-direction: column;
     width: 100%;
-    max-width: 600px; /* Largura máxima do formulário */
+    max-width: 600px; 
     padding: 30px;
     border-radius: 8px;
-    background-color: #1f1e1f; /* Cor de fundo do formulário */
+    background-color: #1f1e1f;
 }
 
 .form-box input,
 .form-box textarea {
-    width: 100%; /* Ajusta a largura dos campos ao contêiner */
+    width: 100%;
     border-radius: 8px;
     border: thin solid #9c00c8;
     padding-left: 16px;
@@ -291,34 +291,35 @@ nav {
 }
 
 .form-box input {
-    height: 48px; /* Altura dos campos de entrada */
+    height: 48px; 
 }
 
 .form-box textarea {
-    height: 180px; /* Altura da área de texto */
-    padding-top: 16px; /* Ajuste do padding para a área de texto */
+    height: 180px;
+    padding-top: 16px; 
 }
 
 .form-box button {
-    padding: 10px 20px;
-    background-color: #9c00c8; /* Azul escuro para o botão */
+    padding: 10px 40px;
+    background-color: #9c00c8;
     color: white;
     border: none;
     border-radius: 5px;
     cursor: pointer;
     font-size: 16px;
-    transition: all 300ms ease-in;
+    transition: all 200ms ease-in;
 }
 
 .form-box button:hover {
-    background-color: #d210d5; /* Azul mais escuro ao passar o mouse */
+    background-color: #4b024c; 
 }
 
 .contact-image {
     width: 150%; 
     max-width: 700px; 
     height: auto; 
-    border-radius: 8px; 
+    border-radius: 8px;
+    margin-left: -100px;;
 }
 
 
