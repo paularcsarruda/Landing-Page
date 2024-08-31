@@ -1,11 +1,12 @@
 # Designer .
 ## página web em HTML e CSS
 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+
 ### Link Netlify
 
 https://loremipsum-designer.netlify.app/
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Descrição do Projeto
 
