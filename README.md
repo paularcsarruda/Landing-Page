@@ -1,9 +1,9 @@
 # Designer .
 ## página web em HTML e CSS
 
-<h4 align="center"> 
-    :construction:  Projeto em construção  :construction:
-</h4>
+### Link Netlify
+
+https://loremipsum-designer.netlify.app/
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
@@ -13,7 +13,11 @@ Página Web de um curso de inglês desenvolvida em HTML e CSS para composição 
 
 ### Sreenshots
 
-![1](https://github.com/user-attachments/assets/6fa53657-6f52-4502-8087-095d9d42cb62)
+![1](https://github.com/user-attachments/assets/6db3b96e-411d-468d-8bf9-446930e35cac)
+
+![2](https://github.com/user-attachments/assets/3ed71e7b-7dbb-49c1-8dfd-00846d7d5f18)
+
+![3](https://github.com/user-attachments/assets/aa858d6a-fd30-4d62-b95d-0fe421ce618d)
 
 ### Tecnologias Utilizadas
 
