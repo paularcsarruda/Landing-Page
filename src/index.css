@@ -34,7 +34,7 @@ nav {
 .list-menu a {
     padding: 1rem;
     color: #fff;
-    font-size: 2rem;
+    font-size: 1.4rem;
     font-weight: 400;
     transition: all 300ms ease-in;
 }
@@ -332,8 +332,8 @@ nav {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    font-size: 1.8rem;
-    padding: 4rem 0;
+    font-size: 1.4rem;
+    padding: 3rem 0;
 }
 
 
@@ -343,15 +343,15 @@ nav {
     display: flex;
     flex-direction: column;
     align-items: center; 
-    font-size: 2rem;
-    gap: 1.5rem; 
+    font-size: 1.4rem;
+    gap: 1rem; 
 }
 
 .contact-item {
     display: flex;
     align-items: center;
-    font-size: 1.8rem;
-    justify-content: center; 
+    font-size: 1.6rem;
+    justify-content: center;
 }
 
 .contact-item i {
